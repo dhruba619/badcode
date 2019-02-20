@@ -1,4 +1,4 @@
-package com.bunty.badcodedeomo;
+package com.bunty.badcodedeomo.simulations;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

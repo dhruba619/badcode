@@ -1,4 +1,4 @@
-package com.bunty.badcodedeomo;
+package com.bunty.badcodedeomo.simulations;
 
 import java.nio.charset.Charset;
 import java.util.ArrayList;

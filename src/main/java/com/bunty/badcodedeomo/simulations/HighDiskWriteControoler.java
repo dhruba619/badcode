@@ -1,4 +1,4 @@
-package com.bunty.badcodedeomo;
+package com.bunty.badcodedeomo.simulations;
 
 import java.io.FileWriter;
 import java.io.IOException;

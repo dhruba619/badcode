@@ -1,4 +1,4 @@
-package com.bunty.badcodedeomo;
+package com.bunty.badcodedeomo.simulations;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.actuate.autoconfigure.metrics.MeterRegistryCustomizer;
